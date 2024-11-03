@@ -3,7 +3,7 @@ import './Header.css'
 
 const Header = () => {
   return (
-    <div className='justify-center m-64'>
+    <div className='justify-center m-80'>
         <div className='text-white justify-center mt-32'>
             <div className='flex justify-center gap-2'>Developing...  <h1 className='text-cyan-600 font-bold'> next-GENERATION TECHNOLOGY</h1>  by "us"</div> 
         </div>
